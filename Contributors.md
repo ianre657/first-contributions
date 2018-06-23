@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Ariel Chen](https://github.com/yanshichen)
 - [haohao Chang](https://github.com/vava24680)
 - [Adarsh Kumar](https://github.com/iamadarshk)
 - [Ebrahim Kreem](https://github.com/EbrahimKreem)

@@ -1,5 +1,9 @@
 ﻿# Contributors
 - [Roubi Ou](https://github.com/ourobin2)
+- [YuHsin Yang](https://github.com/sheeeep914)
+- [bilet-13](https://github.com/bilet-13)
+- [Ariel Chen](https://github.com/yanshichen)
+- [yu](https://github.com/iuprewr25130)
 - [Yushan Lin](https://github.com/yoyofrenchfries)
 - [JiaYanLi](https://github.com/SwallowLee)
 - [Li Yunghao](https://github.com/liyunghao)
@@ -4377,4 +4381,6 @@
 - [Omid Rooholfada](https://github.com/omeshomes)
 - [Nic le Roux](https://github.com/NicLR)
 - [Ilya Ivanov](https://github.com/IlyaIvanov1)
+- [Ouadie Limouni](https://github.com/ouadielim)
+- [Austin](https://github.com/austin880625)
 - [Ouadie Limouni](https://github.com/ouadielim)

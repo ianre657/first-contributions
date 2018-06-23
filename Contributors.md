@@ -1,5 +1,8 @@
 ﻿# Contributors
+
 - [Li Yunghao](https://github.com/liyunghao)
+- [OhMyBuggg](https://github.com/OhMyBuggg)
+- [haohao Chang](https://github.com/vava24680)
 - [Adarsh Kumar](https://github.com/iamadarshk)
 - [Ebrahim Kreem](https://github.com/EbrahimKreem)
 - [Blessing Mutava](https://github.com/MaKloudz)
@@ -450,6 +453,7 @@
 - [Pbaboe](https://github.com/Pbaboe)
 - [Adarsh Lilha](https://github.com/adarshlilha)
 - [Meghana](https://github.com/meMegna)
+- [Tracy Liu](https://github.com/tracyliu1220)
 - [mrluissan](https://github.com/mrluissan)
 - [Jibin Mathews](https://github.com/jazzyarchitects)
 - [ramseyjacob](https://github.com/ramseyjacob)

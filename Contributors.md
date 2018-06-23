@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Yushan Lin](https://github.com/yoyofrenchfries)
 - [JiaYanLi](https://github.com/SwallowLee)
 - [Li Yunghao](https://github.com/liyunghao)
 - [OhMyBuggg](https://github.com/OhMyBuggg)

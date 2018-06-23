@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Ariel Chen](https://github.com/yanshichen)
 - [yu](https://github.com/iuprewr25130)
 - [Yushan Lin](https://github.com/yoyofrenchfries)
 - [JiaYanLi](https://github.com/SwallowLee)
